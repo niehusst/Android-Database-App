@@ -18,4 +18,4 @@ An Android application that gets and holds information about all past and presen
 
 ## Acknowledgments
 
-* The JSON file url from which all data is scraped is owned by [Prabir Pradhan](http://github.com/prabirmsp) 
+* The JSON file url from which all data is scraped was created by [Prabir Pradhan](http://github.com/prabirmsp) 
