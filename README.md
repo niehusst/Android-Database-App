@@ -8,7 +8,7 @@ An Android application that gets and holds information about all past and presen
 
 ## Operation Notes
 
-* The app is designed to function for sdk 15 through sdk 27
+* The app is designed to function for API levels 15 through 27
 
 * The url from which this app scrapes information from is only accessible on the Grinnell College campus, and may be subject to change (or disappear) due to it being owned by a member of the class of 2018.
 
